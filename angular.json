@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hellong"
+    }
+  },
+  "defaultProject": "hellong",
+  "cli": {
+    "analytics": false
+  }
 }
